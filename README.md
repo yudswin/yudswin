@@ -1,8 +1,8 @@
-# 👑YudSwin profile👑
+# Hi there, welcome to 👑YudSwin profile👑
 **Junior (Designer/Developer)**
 
 I'm Duy and I study Computer Science at "[IU][wikipedia]" - Vietnam National University in Ho Chi Minh City. I'd like to work as a software engineer.
-I enjoy delving deeply into game design, level design, and game production as they apply to various types of problems. When working in the gaming industry, I believe it is critical to have a broad range of knowledge in order to be prepared for anything.
+I enjoy delving deeply into game design, level design, and game production as they apply to various types of problems. When working in the gaming industry, I believe it is critical to have a broad range of kn owledge in order to be prepared for anything.
 Thank you for stopping by my GitHub page.
 
 ### Connect with me:
