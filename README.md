@@ -9,10 +9,10 @@
 
 
 <p align="center">
-    <a href="[https://fb.com/yudswinn]"><img width="48px" alt="Facebook" title="Facebook" src="./img/icons8-facebook.svg"/></a>
-    <a href="[https://instagram.com/yud.swin]"><img width="48px" alt="Instagram" title="Instagram" src="./img/icons8-instagram (1).svg"/></a>
-    <a href="[https://github.com/yudswin]"><img width="48px" alt="Github" title="Github" src="./img/icons8-github.svg"/></a>
-    <a href="[https://www.behance.net/nguynduy41]"><img width="48px" alt="Behance" title="Behance" src="./img/icons8-behance (1).svg"/></a>
+    <a href="https://fb.com/yudswinn"><img width="48px" alt="Facebook" title="Facebook" src="./img/icons8-facebook.svg"/></a>
+    <a href="https://instagram.com/yud.swin"><img width="48px" alt="Instagram" title="Instagram" src="./img/icons8-instagram (1).svg"/></a>
+    <a href="https://github.com/yudswin"><img width="48px" alt="Github" title="Github" src="./img/icons8-github.svg"/></a>
+    <a href="https://www.behance.net/nguynduy41"><img width="48px" alt="Behance" title="Behance" src="./img/icons8-behance (1).svg"/></a>
 </p>
 
 <p align="center">
@@ -76,12 +76,12 @@ I believe it is critical to have a broad range of knowledge in order to be prepa
     </a>
 </p>
     <h3>💻 GitHub Profile Stat</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yud's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yudswin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yud's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yudswin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 My Stats" alt="Yud's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yudswin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 My Top Languages" alt="Yud's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yudswin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yudswin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="🔥 Graph" alt="Yud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yudswin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 </details>
