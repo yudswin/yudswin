@@ -1,3 +1,8 @@
+<p align="center">
+    🔺
+  <a href="https://github.com/yudswin"> <img  width="200px" src="./img/name.png" alt="Nguyen Quang Duy" /> </a>
+    🔺
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
