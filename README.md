@@ -47,7 +47,7 @@ I believe it is critical to have a broad range of knowledge in order to be prepa
 - 🥅 2023 Goals: Learn more about **`Unity`** and **`Unreal engine`**
 - ⚡ Music can help me get more **`motivated`** not bugs 
 - 😻 Fun fact: Do I love cat? - Yesn't 🤷🏻‍
-- 🖤 And yassh! I got **`girlfriend`** 🙆
+- 🖤 Contact me: **`nqd5758@gmail.com`** 
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
