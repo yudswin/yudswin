@@ -34,12 +34,14 @@
 
 ---
 
-<details> 
+<details open> 
 <summary><h2>🏄🏻‍♂️ About me:</h2></summary>
+<p align="justify">
 I'm Nguyen Quang Duy and currently I'm studying Computer Science at <a href="https://hcmiu.edu.vn/" target="_blank">International University</a> - <a href="https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City" target="_blank">Vietnam National University in Ho Chi Minh City.</a> 
 I'd like to work as Software Developer and Graphic Designer
 I enjoy delving deeply into game design, level design, and game production as they apply to various types of problems. When working in the gaming industry,
 I believe it is critical to have a broad range of knowledge in order to be prepared for anything.
+    </p>
 </details>
 
 - 🌱 I’m currently **`twenty-one year`** old 🤣
@@ -87,7 +89,7 @@ I believe it is critical to have a broad range of knowledge in order to be prepa
 </details>
 
 #
-<details open>
+<details>
 <summary><h2>📊 My Stats:</h2></summary>
      <h3>🔥 Streak Stats</h3>
 <p>
